@@ -1,7 +1,7 @@
 Welcome to the Awesome Genome Annotation Tool List
 ===========================
 
-You will find:  
+Browse annotation tools by category:  
 
  * [Genome annotation tools](annotation/structural/annotation_tools_genome.md)  
  * [Mitochondrion annotation tools (Mitome)](annotation/structural/annotation_tools_mitome.md)  
