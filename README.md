@@ -5,7 +5,7 @@
 ---------------------------
 
 A curated list of awesome genome annotation tools.
-Available here [https://juke34.github.io/awesome-genome-annotation/](https://juke34.github.io/awesome-genome-annotation/),
+Available here [https://juke34.github.io/awesome-genome-annotation/](https://juke34.github.io/awesome-genome-annotation/)
 
 ## Table of Contents
 
