@@ -19,5 +19,5 @@ List of plastome annotation tools
 
 
 
-Interesting resource:  
+__Interesting resource__  
 https://chlorobox.mpimp-golm.mpg.de/Alternative-Tools.html

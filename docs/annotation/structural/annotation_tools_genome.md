@@ -161,30 +161,34 @@ List of genome annotation tools
 2023 | BRAKER3 | BRAKER3: Fully automated genome annotation using RNA-Seq and protein evidence with GeneMark-ETP, AUGUSTUS and TSEBRA - https://pubmed.ncbi.nlm.nih.gov/37398387/  | | Hybrid | eukaryote |  | |	
 2023 | Galba | Galba: genome annotation with miniprot and AUGUSTUS - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05449-z | pipeline | Hybrid = Ab-intio evidence driven | eukaryote | | use Augustus + miniprot | |
 | year	| Tool name | Publication | Type	| Method | Organism | Comments | Output Format |
+
 _____________________
-__Legend:__  
-Hybrid = ab initio and evidence based = HMM-based gene prediction tool using extrinsic evidence  
-Comparative = genome sequence comparison  
-  
-CHMM: class HMM
-CRF: conditional random field; HMM  
-DBN: Dynamic Bayes network  
-DP: dynamic programming  
-EHMM: evolutionary HMM  
-GHMM: generalized HMM  
-GPHMM: generalized pair HMM  
-HMM: hidden Markov model  
-IMM: Interpolated Markov model  
-LDA: Linear Discriminant Analysis  
-MDD: maximal dependence decomposition  
-ML: maximum likelihood    
-MM: Markov Model   
-NN: Neural Networks  
-PHMM: pair HMM  
-phyloHMM: phylogenetic HMM  
-RBFN: Radial Basis Function Network  
-SVM: support vector machine  
-WAM: weight array matrix  
+
+__Legend:__ 
+
+| Term | Description |
+| --- | --- |
+| Hybrid | ab initio and evidence based = HMM-based gene prediction tool using extrinsic evidence |
+| Comparative | genome sequence comparison |
+| CHMM | class HMM |
+| CRF | conditional random field; HMM |
+| DBN | Dynamic Bayes network |
+| DP | dynamic programming | 
+| EHMM | evolutionary HMM |
+| GHMM | generalized HMM |
+| GPHMM | generalized pair HMM |  
+| HMM | hidden Markov model |
+| IMM | Interpolated Markov model |  
+| LDA | Linear Discriminant Analysis | 
+| MDD | maximal dependence decomposition | 
+| ML | maximum likelihood |
+| MM | Markov Model |
+| NN | Neural Networks | 
+| PHMM | pair HMM |
+| phyloHMM | phylogenetic HMM | 
+| RBFN | Radial Basis Function Network |  
+| SVM | support vector machine |
+| WAM | weight array matrix |
   
 _____________________
 __Interesting publications__  

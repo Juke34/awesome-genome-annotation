@@ -18,5 +18,5 @@ List of mitome annotation tools
 | year	| Tool name | Publication | Type	| Method | Organism | Comments | Output Format |
 
 
-Interesting resource:  
+__Interesting resource__  
 https://chlorobox.mpimp-golm.mpg.de/Alternative-Tools.html
