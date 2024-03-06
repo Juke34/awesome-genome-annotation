@@ -1,7 +1,7 @@
 # Project information
 site_name: 'Awesome Genome Annotation Tools'
 site_author: 'Jacques Dainat'
-site_url: 'https://juke34.github.io/knowledge/'
+site_url: 'https://juke34.github.io/awesome-genome-annotation/'
 site_description: Some bioinformatics knowledge gathered by Jacques Dainat 
 site_dir: public # When you build your site, all of the files are written to the directory assigned to the site_dir configuration option (defaults to "site")
 
