@@ -160,6 +160,7 @@ List of genome annotation tools
 | 2023 | FLAG | FLAG: Find, Label, Annotate Genomes, a fully automated tool for genome gene structural and functional annotation of highly fragmented non-model species https://www.biorxiv.org/content/10.1101/2023.07.14.548907v1.full  | Pipeline | Protein + RNAseq alignement + Abinitio | Eukaryote | Nextflow pipeline very complete |
 | 2023 | BRAKER3 | BRAKER3: Fully automated genome annotation using RNA-Seq and protein evidence with GeneMark-ETP, AUGUSTUS and TSEBRA - https://pubmed.ncbi.nlm.nih.gov/37398387/  | | Hybrid | eukaryote | |	
 | 2023 | Galba | Galba: genome annotation with miniprot and AUGUSTUS - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05449-z | pipeline | Hybrid = Ab-intio evidence driven | eukaryote | use Augustus + miniprot |
+| 2024 | Tiberius | Tiberius: end-to-end deep learning with an HMM for gene prediction - https://academic.oup.com/bioinformatics/article/40/12/btae685/7903281 | deep learning |  | eukaryote | |
 
 _____________________
 
