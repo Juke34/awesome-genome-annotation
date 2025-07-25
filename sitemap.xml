@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://juke34.github.io/awesome-genome-annotation/</loc>
+         <lastmod>2025-07-25</lastmod>
+    </url>
+    <url>
+         <loc>https://juke34.github.io/awesome-genome-annotation/annotation/structural/annotation_tools_genome/</loc>
+         <lastmod>2025-07-25</lastmod>
+    </url>
+    <url>
+         <loc>https://juke34.github.io/awesome-genome-annotation/annotation/structural/annotation_tools_mitome/</loc>
+         <lastmod>2025-07-25</lastmod>
+    </url>
+    <url>
+         <loc>https://juke34.github.io/awesome-genome-annotation/annotation/structural/annotation_tools_plasmidome/</loc>
+         <lastmod>2025-07-25</lastmod>
+    </url>
+    <url>
+         <loc>https://juke34.github.io/awesome-genome-annotation/annotation/structural/annotation_tools_plastome/</loc>
+         <lastmod>2025-07-25</lastmod>
+    </url>
+</urlset>
