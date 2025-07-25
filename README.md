@@ -77,7 +77,7 @@ For the extensions:
 
 For the plugins:  
 `pip install mkdocs-minify-plugin`  
-`pip install mkdocs-macros-plugin`
+`pip install mkdocs-macros-plugin`  
 `pip install mkdocs-embed-external-markdown`
 
 ##### Conda
